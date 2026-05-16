@@ -3,7 +3,7 @@
 
 ---
 
-> **📌 Note:** Most projects are actively maintained through a personal development account. This GitHub is dedicated to showcasing *finished and functional* projects — think of it as a portfolio of completed work, not a live workspace.
+> **📌 Note:** Most active development happens on a personal account. Projects here are *functional and working* — but not necessarily final. Each one is something I plan to keep improving over time.
 
 ---
 
@@ -19,7 +19,7 @@
 
 ## how this github works
 
-repos here are pushed when they reach a stable, presentable state. no half-finished experiments — just things i'm willing to put my name on.
+repos here are pushed when they're functional and worth sharing — not necessarily complete. think of them as solid foundations that are actively being built on. major updates get pushed as they come.
 
 ---
 
